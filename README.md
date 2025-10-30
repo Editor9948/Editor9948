@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/Editor9948" width="120" height="120" style="border-radius: 50%;" />
   <h1>👋 Hi, I'm Oladapo</h1>
   <h3>🚀 MERN Stack Developer | Educator | Founder of <a href="https://hannacode.vercel.app/">HannaCode</a></h3>
-  <p>💡 Passionate about building scalable web solutions and helping others learn to code through real-world examples.</p>
+  <p> I'm Oladapo Olotu, a web developer with over three years of hands-on experience in building modern, responsive, and user-friendly web applications. I'm the <b>founder of HannaCode</b>, an e-learning platform dedicated to making programming education accessible and engaging for learners worldwide. Passionate about both technology and teaching, I combine technical expertise with a mission to empower the next generation of developers.</p>
 </div>
 
 ---
