@@ -2,12 +2,20 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/Editor9948" width="120" height="120" style="border-radius: 50%;" />
   <h1>👋 Hi, I'm Oladapo</h1>
-  <h3>🚀 MERN Stack Developer | Educator | Founder of <a href="https://hannacode.vercel.app/">HannaCode</a></h3>
+  <h3>🚀 MERN Stack Developer | Educator | Founder of <a href="https://hannacode.com/">HannaCode</a></h3>
   <p> I'm Oladapo Olotu, a web developer with over three years of hands-on experience in building modern, responsive, and user-friendly web applications. I'm the <b>founder of HannaCode</b>, an e-learning platform dedicated to making programming education accessible and engaging for learners worldwide. Passionate about both technology and teaching, I combine technical expertise with a mission to empower the next generation of developers.</p>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Editor9948&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
+### 👨‍💻 About Me
+- 🔭 I’m currently working on: **HannaCode eLearning Platform**
+- 🌱 I’m currently learning: **Next.js and TypeScript**
+- 💬 Ask me about: **MERN Stack, Web APIs, and UI/UX Development**
+- ⚡ Fun fact: I believe learning never ends 🚀
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -49,6 +57,13 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Editor9948&layout=compact&theme=react)
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Editor9948?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Editor9948?affiliations=OWNER&style=social" alt="stars"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Editor9948/Editor9948" alt="commit activity"/>
+</p>
+
+---
 
 ### 🔥 Contribution Streak
 
@@ -64,4 +79,5 @@
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House 
+![Snake animation](https://github.com/Editor9948/Editor9948/blob/output/github-contribution-grid-snake.svg)
