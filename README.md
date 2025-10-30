@@ -60,7 +60,7 @@
 
 [![X (Twitter)](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EditorOladapo)
 [![Tiktok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://hannacode.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://oladapoayomide.vercel.app/)
 
 ---
 
