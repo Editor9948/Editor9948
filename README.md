@@ -16,7 +16,6 @@
 - 💬 Ask me about: **MERN Stack, Web APIs, and UI/UX Development**
 - ⚡ Fun fact: I believe learning never ends 
 ---
-### 🧰 Languages and Tools
 ### 💻 My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github" />
