@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on: **HannaCode eLearning Platform**
 - 🌱 I’m currently learning: **Next.js and TypeScript**
 - 💬 Ask me about: **MERN Stack, Web APIs, and UI/UX Development**
-- ⚡ Fun fact: I believe learning never ends 🚀
+- ⚡ Fun fact: I believe learning never ends 
 ---
 ### 🧰 Languages and Tools
 ### 💻 My Tech Stack
