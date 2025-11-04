@@ -58,7 +58,7 @@
 
 ### 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Editor9948&theme=react)
+![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Editor9948&theme=react)
 
 ---
 
