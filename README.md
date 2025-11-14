@@ -30,7 +30,7 @@
 **Tech Stack:** PHP, MySQL, HTML, CSS  
 ⭐ 1 star | 🧩 Open Source | 🚀 Status: Active
 
-#### 🌐 [HannaCode](https://hannacode.vercel.app/)
+#### 🌐 [HannaCode](https://hannacode.com)
 > An e-learning platform to make coding easy for everyone — offering tutorials, exercises, and quizzes for HTML, CSS, JavaScript, and more.  
 **Tech Stack:** React, Node.js, Express, MongoDB, TailwindCSS  
 🌟 Live Project | 💡 Educational Initiative | 💻 Ongoing Development
